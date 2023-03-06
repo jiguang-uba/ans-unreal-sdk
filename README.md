@@ -38,5 +38,5 @@ UAnalysysAgentFunctionLibrary::StartAnalysysAgent("https://uba-up.analysysdata.c
 ```
 
 在蓝图中初始化：
+![baidu logo]([https://img-blog.csdnimg.cn/img_convert/0aaf388e02c6bd9beaec2cefff89c858.png](https://github.com/jiguang-uba/ans-unreal-sdk/blob/main/ue4-analysys.png?raw=true))
 
-@import "https://github.com/jiguang-uba/ans-unreal-sdk/blob/main/ue4-analysys.png?raw=true"
