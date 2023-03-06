@@ -39,4 +39,4 @@ UAnalysysAgentFunctionLibrary::StartAnalysysAgent("https://uba-up.analysysdata.c
 
 在蓝图中初始化：
 
-@import "https://fengshan.zhuxueyun.cn/images/ue4-analysys.png"
+@import "https://github.com/jiguang-uba/ans-unreal-sdk/blob/main/ue4-analysys.png?raw=true"
