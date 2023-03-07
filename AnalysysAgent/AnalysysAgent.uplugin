@@ -1,0 +1,21 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "AnalysysAgent",
+	"Description": "analysys sdk for ue5",
+	"Category": "AnalysysAgent",
+	"CreatedBy": "analysys",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "https://www.analysysdata.com",
+	"EnabledByDefault" : true,
+	"Modules": [
+		{
+			"Name": "AnalysysAgent",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
