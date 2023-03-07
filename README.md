@@ -13,7 +13,7 @@ Unreal Engine 5.0 及以上版本
 #### 集成插件
  将AnalysysAgent目录方式您的项目Plugins文件夹（如果plugins目录不存在则需要创建名为plugins的文件夹）
 #### 使用插件
->集成AnalysysAB插件之后，需要执行以下步骤
+>集成AnalysysAgent插件之后，需要执行以下步骤
 >> · 开启 Unreal Editor
 >> · 打开 编辑 → 插件，启用 AnalysysAgent
 >> · 重启Unreal Editor
