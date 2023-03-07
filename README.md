@@ -11,17 +11,17 @@ Unreal Engine 5.0 及以上版本
 ### 3.快速集成
 
 #### 集成插件
- 将AnalysysAB目录方式您的项目Plugins文件夹（如果plugins目录不存在则需要创建名为plugins的文件夹）
+ 将AnalysysAgent目录方式您的项目Plugins文件夹（如果plugins目录不存在则需要创建名为plugins的文件夹）
 #### 使用插件
 >集成AnalysysAB插件之后，需要执行以下步骤
 >> · 开启 Unreal Editor
->> · 打开 编辑 → 插件，启用 AnalysysAB
+>> · 打开 编辑 → 插件，启用 AnalysysAgent
 >> · 重启Unreal Editor
- 如果您希望直接在 C++ 代码中使用 AnalysysAB接口，需要在项目的 *.Build.cs 文件中添加以下内容：
+ 如果您希望直接在 C++ 代码中使用 AnalysysAgent接口，需要在项目的 *.Build.cs 文件中添加以下内容：
 ```C++
 
-    PrivateDependencyModuleNames.AddRange(new string[] { "AnalysysAB" });
-    PrivateIncludePathModuleNames.AddRange(new string[] { "AnalysysAB" });
+    PrivateDependencyModuleNames.AddRange(new string[] { "AnalysysAgent" });
+    PrivateIncludePathModuleNames.AddRange(new string[] { "AnalysysAgent" });
 ```
 
 此外，还需要在使用 SDK 的文件中引用 AnalysysAgentFunctionLibrary.h 头文件
