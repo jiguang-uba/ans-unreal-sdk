@@ -1,6 +1,6 @@
 # Unreal Engine SDK
 ## 1.使用说明
-Unreal Engine SDK 同时支持通过c++代码或蓝图调用接口上报数据，目前支持Androi、iOS，其他平台为空实现
+Unreal Engine SDK 同时支持通过c++代码或蓝图调用接口上报数据，目前支持Android、iOS，其他平台为空实现
 
 集成前请先[下载 SDK](https://github.com/jiguang-uba/ans-unreal-sdk)
 
